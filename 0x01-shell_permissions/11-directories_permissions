@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R chinagorom+x
+chmod -R ugo+x
